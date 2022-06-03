@@ -1,0 +1,78 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  font-family: "Roboto", sans-serif;
+}
+
+.toggle {
+  width: 40px;
+  height: 20px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+nav * {
+  padding-top: 30px;
+}
+main {
+  padding: 10px 40px 80px 40px;
+  background: #1c2635;
+  color: white;
+}
+
+main h1 {
+  font-size: 60px;
+  font-weight: 900;
+}
+
+main p {
+  font-size: 20px;
+  max-width: 300px;
+  margin-top: -40px;
+  margin-bottom: 60px;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  background: white;
+  padding: 20px;
+  color: #1c2635;
+  border-radius: 5px;
+  border: 0;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.card-panel {
+  padding: 20px 80px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.card {
+  max-width: 200px;
+  margin: 20px;
+}
+
+.card-title {
+  font-size: 26px;
+  color: #1c2635;
+}
+
+.card p {
+  font-size: 16px;
+  font-weight: 300;
+  color: rgb(88, 88, 88);
+}
