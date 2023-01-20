@@ -15,7 +15,7 @@ To take care of the food you eat, you decided to create a nutrition app that wil
 ## Setup
 
 - Fork this repo
-- Clone this repo
+- Clone the forked repo
 - Open the LAB and start:
 
   ```bash
@@ -58,18 +58,13 @@ export default App;
 
 #### Ant Design Installation
 
-We will use [Ant Design](https://ant.design/) component library for the design. :)
+We will use [Ant Design](https://ant.design/) component library for the design.:sunglasses:
 
 ```sh
 $ npm install antd
 ```
 
-To make the Ant Design styles available in the entire app, import Ant Design stylesheet in `index.js`:
-
-```javascript
-// src/index.js
-import 'antd/dist/antd.css';
-```
+<br>
 
 #### Ant Design Components
 
@@ -103,6 +98,8 @@ function Example() {
 }
 ```
 
+<br>
+
 #### Import a JSON
 
 For now, we will be working on the `App.js` file. In the later steps, you can refactor the app and split it into multiple components. Import the array of foods from the `foods.json` file to `App.js`.
@@ -111,13 +108,17 @@ For now, we will be working on the `App.js` file. In the later steps, you can re
 import foods from './foods.json';
 ```
 
+<br>
+
 #### About the design
 
 If you struggle with the design, you can find static examples of what is expected inside the `style-guide/` folder.
 
 So let's start!
 
-### Iteration 1| Render a Simple List
+<br>
+
+### Iteration 1 | Render a Simple List
 
 Now that you have the `foods.json` imported in `App.js` it is time to save it in a state variable. Once you have done that, map over the state variable and render a simple list that displays food names. Use the following snippet for the list items:
 
@@ -136,17 +137,17 @@ Now that you have the `foods.json` imported in `App.js` it is time to save it in
 
 Create a new component named `FoodBox` that takes the prop `food`, which is an object. It should display the card with food information coming from the `food` prop. To render the content, use the structure provided in the file `style-guide/FoodBox.example.js`.
 
-
-
 Once done, test it by rendering a single instance of the component in `App.js`. You can pass it the object with food info like this:
 
 ```jsx
-<FoodBox food={ {
-  name: "Orange",
-  calories: 85,
-  image: "https://i.imgur.com/abKGOcv.jpg",
-  servings: 1
-}} />
+<FoodBox
+  food={{
+    name: 'Orange',
+    calories: 85,
+    image: 'https://i.imgur.com/abKGOcv.jpg',
+    servings: 1,
+  }}
+/>
 ```
 
 **Expected result:**
@@ -157,7 +158,7 @@ Once done, test it by rendering a single instance of the component in `App.js`. 
 
 ### Iteration 3 | Render a List of `FoodBox` Components
 
-After creating the `FoodBox` component, use it in `App.js` to render the food *list*. Instead of mapping over the foods array and rendering only the food names, render the `<FoodBox />` component. When rendering the `FoodBox`  component, remember to pass the food object as a prop.
+After creating the `FoodBox` component, use it in `App.js` to render the food _list_. Instead of mapping over the foods array and rendering only the food names, render the `<FoodBox />` component. When rendering the `FoodBox` component, remember to pass the food object as a prop.
 
 Once you are done rendering the `FoodBox` in the list, your app should display the following content:
 
@@ -213,7 +214,7 @@ If you are not sure how to create responsive columns with Ant Design, you can ch
 
 ### Iteration 7 | Bonus | Hide the Add Food Form
 
-There are quite a few components displaying in the app. Implement a hide/show button that, when clicked, hides/shows the `AddFoodForm`. 
+There are quite a few components displaying in the app. Implement a hide/show button that, when clicked, hides/shows the `AddFoodForm`.
 
 When the form is showing, the button should display the message <kbd>Hide Form</kbd>`. When the form is hidden it shoud display <kbd>Add New Food</kbd>.
 
@@ -226,7 +227,5 @@ When the form is showing, the button should display the message <kbd>Hide Form</
 Display a Feedback message to the user when the food array is empty. Once the user deletes all of the items from the list, the following message should be displayed:
 
 ![Example - Add food component](https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/lab-react-ironnutrition-8.gif)
-
-
 
 Happy coding! ❤️
