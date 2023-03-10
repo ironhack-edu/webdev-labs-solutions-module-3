@@ -1,0 +1,107 @@
+body {
+  margin: 0 auto;
+  background-image: linear-gradient(#C1DFC4, #DEECDD);
+}
+
+h1, h2 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}
+
+h1 {
+  font-size: 20px;
+  color: #638165;
+}
+
+h2 {
+  font-size: 12px;
+}
+
+p {
+  width: 150px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 12px;
+  font-weight: 100;
+}
+
+button {
+  width: 150px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: #638165;
+  border-color: #638165;
+  border-radius: 2px;
+  margin-top: 12px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+button[type="submit"], .cancelEditButton {
+  background-color: lightgrey;
+}
+
+input {
+  margin-bottom: 12px;
+  background-color: lightgrey;
+  border-radius: 2px;
+  border-color: lightgrey;
+}
+
+.homePageContainer, .signUpContainer, .loginContainer{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ovalBackground {
+  width: 60vw;
+  height: 50vh;
+  display: flex;
+  background-image: url("./assets/oval-bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ovalBackground div {
+  margin-left: 16px;
+}
+
+.signinContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.signUpForm, .loginForm {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.homeRightSection, .signUpRightSection, .loginRightSection {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 8px;
+  margin-bottom: 20px;
+}
+
+.updateImageForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* margin-left: 48px; */
+}
+
+.field {
+  color: lightgrey;
+}
+
+.logOutButton {
+  color: #D0021B;
+  outline: none;
+  background: transparent;
+  border: 1px solid transparent;
+}
