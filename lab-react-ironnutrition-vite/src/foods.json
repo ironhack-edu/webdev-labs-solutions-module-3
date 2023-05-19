@@ -1,0 +1,121 @@
+[
+  {
+    "id": "9e7f0d61-aa6b-418a-b56a-6418d19e6e1d",
+    "name": "Pizza",
+    "calories": 400,
+    "image": "https://i.imgur.com/eTmWoAN.png",
+    "servings": 1
+  },
+  {
+    "id": "37e0b31d-63f4-4d42-9f4b-e9a0fc464d60",
+    "name": "Salad",
+    "calories": 150,
+    "image": "https://i.imgur.com/DupGBz5.jpg",
+    "servings": 1
+  },
+  {
+    "id": "b5eb5b5f-41b8-4f1f-8844-7a1a56a17df7",
+    "name": "Sweet Potato",
+    "calories": 120,
+    "image": "https://i.imgur.com/hGraGyR.jpg",
+    "servings": 1
+  },
+  {
+    "id": "6c0f6f33-8c50-403d-9d1c-6ac9d8b77f29",
+    "name": "Gnocchi",
+    "calories": 500,
+    "image": "https://i.imgur.com/93ekwW0.jpg",
+    "servings": 1
+  },
+  {
+    "id": "f4b4d2bc-ff12-4f3f-b3b3-19d2f1682401",    
+    "name": "Pot Roast",
+    "calories": 350,
+    "image": "https://i.imgur.com/WCzJDWz.jpg",
+    "servings": 1
+  },
+  {
+    "id": "bf89c1db-5c5b-4262-9d1e-8a68f88c61d5",    
+    "name": "Lasagna",
+    "calories": 750,
+    "image": "https://i.imgur.com/ClxOafl.jpg",
+    "servings": 1
+  },
+  {
+    "id": "bca9beec-43d3-48b1-9b57-793a8a8c3520",
+    "name": "Hamburger",
+    "calories": 400,
+    "image": "https://i.imgur.com/LoG39wK.jpg",
+    "servings": 1
+  },
+  {
+    "id": "b777a69a-7f1c-41e8-8a4c-1d0e9e4cace8",
+    "name": "Pad Thai",
+    "calories": 475,
+    "image": "https://i.imgur.com/5ktcSzF.jpg",
+    "servings": 1
+  },
+  {
+    "id": "d087343e-9a92-48c7-8b27-43e37491b6f5",   
+    "name": "Almonds",
+    "calories": 75,
+    "image": "https://i.imgur.com/JRp4Ksx.jpg",
+    "servings": 1
+  },
+  {
+    "id": "e1f87a2e-60b3-4a3f-bb48-20a396a9a94f",    
+    "name": "Sarma",
+    "calories": 200,
+    "image": "https://i.imgur.com/yOlf4Fj.jpg",
+    "servings": 1
+  },
+  {
+    "id": "0ce7e4d4-1c8a-4e9f-98df-1ecb1e7b8a0b",    
+    "name": "Bacon",
+    "calories": 175,
+    "image": "https://i.imgur.com/7GlqDsG.jpg",
+    "servings": 1
+  },
+  {
+    "id": "bbfd30fd-cd75-4e3b-8fc8-3d3fd62a3c39",
+    "name": "Hot Dog",
+    "calories": 275,
+    "image": "https://i.imgur.com/QqVHdRu.jpg",
+    "servings": 1
+  },
+  {
+    "id": "1c6d5b5f-4e72-4136-8c6c-9cf3e3d16a65",
+    "name": "Chocolate Cake",
+    "calories": 490,
+    "image": "https://i.imgur.com/yrgzA9x.jpg",
+    "servings": 1
+  },
+  {
+    "id": "07d9616d-7a63-457c-b8a7-58f6a70a67e3",
+    "name": "Wheat Bread",
+    "calories": 175,
+    "image": "https://i.imgur.com/TsWzMfM.jpg",
+    "servings": 1
+  },
+  {
+    "id": "d7a8f0c1-0a34-4e3b-a2d3-3c3e3f11eb19",
+    "name": "Orange",
+    "calories": 85,
+    "image": "https://i.imgur.com/abKGOcv.jpg",
+    "servings": 1
+  },
+  {
+    "id": "a8d111c4-50ef-4c61-8b16-17e84a86b2f4",
+    "name": "Banana",
+    "calories": 175,
+    "image": "https://i.imgur.com/BMdJhu5.jpg",
+    "servings": 1
+  },
+  {
+    "id": "62d8a0bc-1b77-4389-9e7b-2e00cace6a2e",
+    "name": "Yogurt",
+    "calories": 125,
+    "image": "https://i.imgur.com/URhdrAm.png",
+    "servings": 1
+  }
+]
