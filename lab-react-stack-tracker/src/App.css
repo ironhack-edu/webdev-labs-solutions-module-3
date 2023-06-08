@@ -1,0 +1,151 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+p {
+  color: black;
+}
+
+ul,
+ol {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  display: flex;
+  align-items: center;
+  padding: 1.5rem;
+  border-radius: 0.25rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+  margin-bottom: 10px;
+}
+
+.HomePage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 40px;
+}
+
+.CompanyPage {
+  padding: 20px 30px;
+}
+
+.technology-summary,
+.company-summary {
+  padding-top: 10px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.technology-summary div,
+.company-summary div {
+  width: 350px;
+  height: 350px;
+}
+
+div.company-logo-wrapper,
+div.technology-logo-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* padding-top: 30px; */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  border-radius: 0.5rem;
+  width: 250px;
+  height: 250px;
+}
+
+.logo {
+  width: 50%;
+  height: auto;
+}
+
+.tech-stack-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  overflow: scroll;
+  box-sizing: border-box;
+}
+
+.tech-stack-item {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  width: 80px;
+  height: 80px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+  margin: 1rem;
+}
+
+.tech-stack-item + p {
+  margin-top: -0.4rem;
+}
+
+.icon {
+  width: 50px;
+  max-height: auto;
+  margin: 0.5rem;
+}
+
+.mini-icon-wrapper {
+  background-color: white;
+  height: 30px;
+  width: 30px;
+  margin: 0.3rem;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1px;
+}
+
+.mini-icon {
+  background-color: white;
+  height: 30px;
+  width: auto;
+}
+
+.company-logo {
+  width: 55%;
+  height: auto;
+  max-height: 130px;
+  margin-top: 10px;
+}
+
+.companies-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.list-item {
+  flex-direction: column;
+  width: 400px;
+  height: 290px;
+  margin: 20px;
+  padding: 5px 110px 80px;
+  box-sizing: border-box;
+}
+
+.list-item p {
+  font-size: 24px;
+  margin-bottom: -15px;
+  color: black;
+}
+
+.tech-stack-preview {
+  background-color: rgb(51, 51, 51);
+  width: 180px;
+  height: 180px;
+  padding: 5px;
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+  overflow: hidden;
+  justify-content: baseline;
+}

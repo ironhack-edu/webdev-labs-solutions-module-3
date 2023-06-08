@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "8a678fe4",
+    "slug": "airbnb",
+    "name": "Airbnb",
+    "website": "www.example.com",
+    "description": "An online platform for listing, discovering, and booking unique accommodations around the world. It allows users to rent out their homes or spare rooms to travelers.An online platform for listing, discovering, and booking unique accommodations around the world.",
+    "logo": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/airbnb-logo.png",
+    "techStack": [
+      {
+        "name": "JavaScript",
+        "slug": "javascript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/javascript-logo.png"
+      },
+      {
+        "name": "React",
+        "slug": "react",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/react-logo.png"
+      },
+      {
+        "name": "Redis",
+        "slug": "redis",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/redis-logo.png"
+      },
+      {
+        "name": "Ruby",
+        "slug": "ruby",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/ruby-logo.png"
+      },
+      {
+        "name": "Ruby on Rails",
+        "slug": "ruby-on-rails",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/rails-logo.png"
+      },
+      {
+        "name": "Java",
+        "slug": "java",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/java-logo.png"
+      },
+      {
+        "name": "NGINX",
+        "slug": "nginx",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/nginx-logo.png"
+      },
+      {
+        "name": "Node.js",
+        "slug": "nodejs",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/nodejs-logo.png"
+      },
+      {
+        "name": "MySQL",
+        "slug": "mysql",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/mysql-logo.png"
+      },
+      {
+        "name": "Hadoop",
+        "slug": "hadoop",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/hadoop-logo.png"
+      },
+      {
+        "name": "AWS",
+        "slug": "aws",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/aws-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "32f71122",
+    "slug": "apple",
+    "name": "Apple",
+    "website": "www.example.com",
+    "description": "A multinational technology company known for designing and producing consumer electronics, software, and online services. Its most famous products include the iPhone, iPad, Mac computers, and the iOS operating system.",
+    "logo": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/apple-logo.png",
+    "techStack": [
+      {
+        "name": "Swift",
+        "slug": "swift",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/swift-logo.png"
+      },
+      {
+        "name": "Objective-C",
+        "slug": "objective-c",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/unknown-logo.png"
+      },
+      {
+        "name": "C++",
+        "slug": "cplus",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/cpp-logo.png"
+      },
+      {
+        "name": "Java",
+        "slug": "java",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/java-logo.png"
+      },
+      {
+        "name": "Spring Boot",
+        "slug": "spring-boot",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/spring-logo.png"
+      },
+      {
+        "name": "Python",
+        "slug": "python",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/python-logo.png"
+      },
+      {
+        "name": "JavaScript",
+        "slug": "javascript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/javascript-logo.png"
+      },
+      {
+        "name": "React",
+        "slug": "react",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/react-logo.png"
+      },
+      {
+        "name": "Node.js",
+        "slug": "nodejs",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/nodejs-logo.png"
+      },
+      {
+        "name": "Oracle",
+        "slug": "oracle",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/oracle-logo.png"
+      },
+      {
+        "name": "MongoDB",
+        "slug": "mongo",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/mongodb-logo.png"
+      },
+      {
+        "name": "Docker",
+        "slug": "docker",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/docker-logo.png"
+      },
+      {
+        "name": "Kubernetes",
+        "slug": "kubernetes",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/kubernetes-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "bd6a6e63",
+    "slug": "netflix",
+    "name": "Netflix",
+    "website": "www.example.com",
+    "description": "A leading streaming platform providing a wide array of movies, TV shows, and original content. Netflix services can be accessed from numerous devices, including TVs, computers, and mobile devices.",
+    "logo": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/netflix-logo.png",
+    "techStack": [
+      {
+        "name": "JavaScript",
+        "slug": "javascript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/javascript-logo.png"
+      },
+      {
+        "name": "React",
+        "slug": "react",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/react-logo.png"
+      },
+      {
+        "name": "Java",
+        "slug": "java",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/java-logo.png"
+      },
+      {
+        "name": "Node.js",
+        "slug": "nodejs",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/nodejs-logo.png"
+      },
+      {
+        "name": "Python",
+        "slug": "python",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/python-logo.png"
+      },
+      {
+        "name": "Flask",
+        "slug": "flask",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/flask-logo.png"
+      },
+      {
+        "name": "MySQL",
+        "slug": "mysql",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/mysql-logo.png"
+      },
+      {
+        "name": "PostgreSQL",
+        "slug": "postgresql",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/postgresql-logo.png"
+      },
+      {
+        "name": "Hadoop",
+        "slug": "hadoop",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/hadoop-logo.png"
+      },
+      {
+        "name": "Cassandra",
+        "slug": "cassandra",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/cassandra-logo.png"
+      },
+      {
+        "name": "AWS",
+        "slug": "aws",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/aws-logo.png"
+      },
+      {
+        "name": "Oracle",
+        "slug": "oracle",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/oracle-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "e30395a3",
+    "slug": "uber",
+    "name": "Uber",
+    "website": "www.example.com",
+    "description": "A ride-sharing platform that connects drivers and passengers through a smartphone app. It also offers food delivery services through Uber Eats. Instagram: A photo and video sharing social networking service, which allows users to upload content and share it with followers or with a select group of friends. It also offers features like filters, stories, and IGTV.",
+    "logo": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/uber-logo.png",
+    "techStack": [
+      {
+        "name": "JavaScript",
+        "slug": "javascript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/javascript-logo.png"
+      },
+      {
+        "name": "React",
+        "slug": "react",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/react-logo.png"
+      },
+      {
+        "name": "Node.js",
+        "slug": "nodejs",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/nodejs-logo.png"
+      },
+      {
+        "name": "Java",
+        "slug": "java",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/java-logo.png"
+      },
+      {
+        "name": "Go",
+        "slug": "go",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/go-logo.png"
+      },
+      {
+        "name": "Python",
+        "slug": "python",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/python-logo.png"
+      },
+      {
+        "name": "Objective-C",
+        "slug": "objective-c",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/unknown-logo.png"
+      },
+      {
+        "name": "MySQL",
+        "slug": "mysql",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/mysql-logo.png"
+      },
+      {
+        "name": "PostgreSQL",
+        "slug": "postgresql",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/postgresql-logo.png"
+      },
+      {
+        "name": "Redis",
+        "slug": "redis",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/redis-logo.png"
+      },
+      {
+        "name": "MongoDB",
+        "slug": "mongo",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/mongodb-logo.png"
+      },
+      {
+        "name": "Hadoop",
+        "slug": "hadoop",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/hadoop-logo.png"
+      },
+      {
+        "name": "Elasticsearch",
+        "slug": "elasticsearch",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/elasticsearch-logo.png"
+      },
+      {
+        "name": "TensorFlow",
+        "slug": "tensorflow",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/tensorflow-logo.png"
+      },
+      {
+        "name": "Cassandra",
+        "slug": "cassandra",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/cassandra-logo.png"
+      },
+      {
+        "name": "AWS",
+        "slug": "aws",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/aws-logo.png"
+      },
+      {
+        "name": "NGINX",
+        "slug": "nginx",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/nginx-logo.png"
+      },
+      {
+        "name": "Terraform",
+        "slug": "terraform",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/terraform-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "7e5c37bc",
+    "slug": "instagram",
+    "name": "Instagram",
+    "website": "www.example.com",
+    "description": "A photo and video sharing social networking platform, which allows users to upload content and share it with followers or with a select group of friends. It also offers features like filters, stories, and IGTV.",
+    "logo": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/instagram-logo.png",
+    "techStack": [
+      {
+        "name": "Python",
+        "slug": "python",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/python-logo.png"
+      },
+      {
+        "name": "Django",
+        "slug": "django",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/django-logo.png"
+      },
+      {
+        "name": "JavaScript",
+        "slug": "javascript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/javascript-logo.png"
+      },
+      {
+        "name": "React",
+        "slug": "react",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/react-logo.png"
+      },
+      {
+        "name": "React Native",
+        "slug": "react-native",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/react-logo.png"
+      },
+      {
+        "name": "Redux",
+        "slug": "redux",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/redux-logo.png"
+      },
+      {
+        "name": "Jest",
+        "slug": "jest",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/jest-logo.jpeg"
+      },
+      {
+        "name": "Java",
+        "slug": "java",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/java-logo.png"
+      },
+      {
+        "name": "Objective-C",
+        "slug": "objective-c",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/unknown-logo.png"
+      },
+      {
+        "name": "PostgreSQL",
+        "slug": "postgresql",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/postgresql-logo.png"
+      },
+      {
+        "name": "Redis",
+        "slug": "redis",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/redis-logo.png"
+      },
+      {
+        "name": "Cassandra",
+        "slug": "cassandra",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/cassandra-logo.png"
+      },
+      {
+        "name": "GraphQL",
+        "slug": "graphql",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/graphql-logo.png"
+      },
+      {
+        "name": "AWS",
+        "slug": "aws",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/aws-logo.png"
+      },
+      {
+        "name": "NGINX",
+        "slug": "nginx",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/nginx-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "8655bdaa",
+    "slug": "spotify",
+    "name": "Spotify",
+    "website": "www.example.com",
+    "description": "A digital music, podcast, and video streaming service that provides access to millions of songs and other content from artists globally. It has transformed the way people access and enjoy music and podcasts, making it an integral part of the modern digital entertainment landscape.",
+    "logo": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/spotify-logo.png",
+    "techStack": [
+      {
+        "name": "Python",
+        "slug": "python",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/python-logo.png"
+      },
+      {
+        "name": "Java",
+        "slug": "java",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/java-logo.png"
+      },
+      {
+        "name": "PostgreSQL",
+        "slug": "postgresql",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/postgresql-logo.png"
+      },
+      {
+        "name": "Redis",
+        "slug": "redis",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/redis-logo.png"
+      },
+      {
+        "name": "Cassandra",
+        "slug": "cassandra",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/cassandra-logo.png"
+      },
+      {
+        "name": "AWS",
+        "slug": "aws",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/aws-logo.png"
+      },
+      {
+        "name": "Google Cloud",
+        "slug": "google-cloud",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/google-cloud-logo.png"
+      },
+      {
+        "name": "NGINX",
+        "slug": "nginx",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/nginx-logo.png"
+      },
+      {
+        "name": "Docker",
+        "slug": "docker",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/docker-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "1e40a5a4",
+    "slug": "instacart",
+    "name": "Instacart",
+    "website": "www.example.com",
+    "description": "An online grocery delivery service where users can order from their favorite local stores and have their groceries delivered to their door.",
+    "logo": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/instacart-logo.png",
+    "techStack": [
+      {
+        "name": "Python",
+        "slug": "python",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/python-logo.png"
+      },
+      {
+        "name": "JavaScript",
+        "slug": "javascript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/javascript-logo.png"
+      },
+      {
+        "name": "React",
+        "slug": "react",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/react-logo.png"
+      },
+      {
+        "name": "Redis",
+        "slug": "redis",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/redis-logo.png"
+      },
+      {
+        "name": "Ruby",
+        "slug": "ruby",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/ruby-logo.png"
+      },
+      {
+        "name": "Ruby on Rails",
+        "slug": "ruby-on-rails",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/rails-logo.png"
+      },
+      {
+        "name": "Java",
+        "slug": "java",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/java-logo.png"
+      },
+      {
+        "name": "Objective-C",
+        "slug": "objective-c",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/unknown-logo.png"
+      },
+      {
+        "name": "NGINX",
+        "slug": "nginx",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/nginx-logo.png"
+      },
+      {
+        "name": "PostgreSQL",
+        "slug": "postgresql",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/postgresql-logo.png"
+      },
+      {
+        "name": "AWS",
+        "slug": "aws",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/aws-logo.png"
+      },
+      {
+        "name": "Cassandra",
+        "slug": "cassandra",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/cassandra-logo.png"
+      },
+      {
+        "name": "CircleCI",
+        "slug": "circleci",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/circleci-logo.png"
+      },
+      {
+        "name": "Jenkins",
+        "slug": "jenkins",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/jenkins-logo.png"
+      },
+      {
+        "name": "Terraform",
+        "slug": "terraform",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/terraform-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "4dc8ce33",
+    "slug": "meta",
+    "name": "Meta",
+    "website": "www.example.com",
+    "description": "Formerly known as Facebook Inc., Meta is a technology conglomerate with a focus on developing the future of virtual reality and social networking. It's also the parent company of Instagram, WhatsApp, and Oculus VR.",
+    "logo": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/meta-logo.png",
+    "techStack": [
+      {
+        "name": "PHP",
+        "slug": "php",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/php-logo.png"
+      },
+      {
+        "name": "JavaScript",
+        "slug": "javascript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/javascript-logo.png"
+      },
+      {
+        "name": "React",
+        "slug": "react",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/react-logo.png"
+      },
+      {
+        "name": "React Native",
+        "slug": "react-native",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/react-logo.png"
+      },
+      {
+        "name": "TypeScript",
+        "slug": "typescript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/typescript-logo.png"
+      },
+      {
+        "name": "GraphQL",
+        "slug": "graphql",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/graphql-logo.png"
+      },
+      {
+        "name": "Python",
+        "slug": "python",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/python-logo.png"
+      },
+      {
+        "name": "Java",
+        "slug": "java",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/java-logo.png"
+      },
+      {
+        "name": "C++",
+        "slug": "cplus",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/cpp-logo.png"
+      },
+      {
+        "name": "Go",
+        "slug": "go",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/go-logo.png"
+      },
+      {
+        "name": "Kotlin",
+        "slug": "kotlin",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/kotlin-logo.png"
+      },
+      {
+        "name": "Rust",
+        "slug": "rust",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/rust-logo.png"
+      },
+      {
+        "name": "Swift",
+        "slug": "swift",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/swift-logo.png"
+      },
+      {
+        "name": "Google Cloud",
+        "slug": "google-cloud",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/google-cloud-logo.png"
+      },
+      {
+        "name": "AWS",
+        "slug": "aws",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/aws-logo.png"
+      },
+      {
+        "name": "MySQL",
+        "slug": "mysql",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/mysql-logo.png"
+      },
+      {
+        "name": "Cassandra",
+        "slug": "cassandra",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/cassandra-logo.png"
+      },
+      {
+        "name": "Hadoop",
+        "slug": "hadoop",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/hadoop-logo.png"
+      },
+      {
+        "name": "Jenkins",
+        "slug": "jenkins",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/jenkins-logo.png"
+      },
+      {
+        "name": "Terraform",
+        "slug": "terraform",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/terraform-logo.png"
+      },
+      {
+        "name": "Google Cloud",
+        "slug": "google-cloud",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/google-cloud-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "7a735bb6",
+    "slug": "google",
+    "name": "Google",
+    "website": "www.example.com",
+    "description": "A multinational technology company specializing in internet-related services and products, including search, online advertising technologies, cloud computing, software, and hardware.",
+    "logo": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/google-logo.png",
+    "techStack": [
+      {
+        "name": "C++",
+        "slug": "cplus",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/cpp-logo.png"
+      },
+      {
+        "name": "Java",
+        "slug": "java",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/java-logo.png"
+      },
+      {
+        "name": "Go",
+        "slug": "go",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/go-logo.png"
+      },
+      {
+        "name": "JavaScript",
+        "slug": "javascript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/javascript-logo.png"
+      },
+      {
+        "name": "Angular",
+        "slug": "angular",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/angular-logo.png"
+      },
+      {
+        "name": "TypeScript",
+        "slug": "typescript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/typescript-logo.png"
+      },
+      {
+        "name": "Python",
+        "slug": "python",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/python-logo.png"
+      },
+      {
+        "name": "Swift",
+        "slug": "swift",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/swift-logo.png"
+      },
+      {
+        "name": "GraphQL",
+        "slug": "graphql",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/graphql-logo.png"
+      },
+      {
+        "name": "Kubernetes",
+        "slug": "kubernetes",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/kubernetes-logo.png"
+      },
+      {
+        "name": "Google Cloud",
+        "slug": "google-cloud",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/google-cloud-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "1b9c06f3",
+    "slug": "delivery-hero",
+    "name": "Delivery Hero",
+    "website": "www.example.com",
+    "description": "An online food-delivery service based in Berlin, Germany, operating in over 40 countries globally. It partners with over 500,000 restaurants.",
+    "logo": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/delivery-hero-logo.png",
+    "techStack": [
+      {
+        "name": "JavaScript",
+        "slug": "javascript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/javascript-logo.png"
+      },
+      {
+        "name": "React",
+        "slug": "react",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/react-logo.png"
+      },
+      {
+        "name": "Node.js",
+        "slug": "nodejs",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/nodejs-logo.png"
+      },
+      {
+        "name": "Java",
+        "slug": "java",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/java-logo.png"
+      },
+      {
+        "name": "Kotlin",
+        "slug": "kotlin",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/kotlin-logo.png"
+      },
+      {
+        "name": "Go",
+        "slug": "go",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/go-logo.png"
+      },
+      {
+        "name": "Python",
+        "slug": "python",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/python-logo.png"
+      },
+      {
+        "name": "PHP",
+        "slug": "php",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/php-logo.png"
+      },
+      {
+        "name": "Scala",
+        "slug": "scala",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/scala-logo.png"
+      },
+      {
+        "name": "MySQL",
+        "slug": "mysql",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/mysql-logo.png"
+      },
+      {
+        "name": "PostgreSQL",
+        "slug": "postgresql",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/postgresql-logo.png"
+      },
+      {
+        "name": "Redis",
+        "slug": "redis",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/redis-logo.png"
+      },
+      {
+        "name": "MongoDB",
+        "slug": "mongo",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/mongodb-logo.png"
+      },
+      {
+        "name": "Hadoop",
+        "slug": "hadoop",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/hadoop-logo.png"
+      },
+      {
+        "name": "Elasticsearch",
+        "slug": "elasticsearch",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/elasticsearch-logo.png"
+      },
+      {
+        "name": "TensorFlow",
+        "slug": "tensorflow",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/tensorflow-logo.png"
+      },
+      {
+        "name": "AWS",
+        "slug": "aws",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/aws-logo.png"
+      },
+      {
+        "name": "Azure",
+        "slug": "azure",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/azure-logo.png"
+      },
+      {
+        "name": "NGINX",
+        "slug": "nginx",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/nginx-logo.png"
+      },
+      {
+        "name": "Terraform",
+        "slug": "terraform",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/terraform-logo.png"
+      },
+      {
+        "name": "Docker",
+        "slug": "docker",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/docker-logo.png"
+      },
+      {
+        "name": "Kubernetes",
+        "slug": "kubernetes",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/kubernetes-logo.png"
+      },
+      {
+        "name": "Travis CI",
+        "slug": "travis-ci",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/travisci-logo.png"
+      },
+      {
+        "name": "Jenkins",
+        "slug": "jenkins",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/jenkins-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "52f1dc19",
+    "slug": "pinterest",
+    "name": "Pinterest",
+    "website": "www.example.com",
+    "description": "Pinterest is a social media platform that allows users to discover and save ideas through visual content, creating personalized collections of inspiration.",
+    "logo": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/pinterest-logo.png",
+    "techStack": [
+      {
+        "name": "Python",
+        "slug": "python",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/python-logo.png"
+      },
+      {
+        "name": "JavaScript",
+        "slug": "javascript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/javascript-logo.png"
+      },
+      {
+        "name": "React",
+        "slug": "react",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/react-logo.png"
+      },
+      {
+        "name": "TypeScript",
+        "slug": "typescript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/typescript-logo.png"
+      },
+      {
+        "name": "Swift",
+        "slug": "swift",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/swift-logo.png"
+      },
+      {
+        "name": "Objective-C",
+        "slug": "objective-c",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/unknown-logo.png"
+      },
+      {
+        "name": "Java",
+        "slug": "java",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/java-logo.png"
+      },
+      {
+        "name": "Kotlin",
+        "slug": "kotlin",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/kotlin-logo.png"
+      },
+      {
+        "name": "GraphQL",
+        "slug": "graphql",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/graphql-logo.png"
+      },
+      {
+        "name": "MySQL",
+        "slug": "mysql",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/mysql-logo.png"
+      },
+      {
+        "name": "PostgreSQL",
+        "slug": "postgresql",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/postgresql-logo.png"
+      },
+      {
+        "name": "Redis",
+        "slug": "redis",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/redis-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "f2851d6d",
+    "slug": "shopify",
+    "name": "Shopify",
+    "website": "www.example.com",
+    "description": "An ecommerce platform that allows businesses to set up online stores and sell their products. It also offers services like payments, marketing, shipping, and customer engagement tools.",
+    "logo": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/shopify-logo.png",
+    "techStack": [
+      {
+        "name": "JavaScript",
+        "slug": "javascript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/javascript-logo.png"
+      },
+      {
+        "name": "React",
+        "slug": "react",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/react-logo.png"
+      },
+      {
+        "name": "TypeScript",
+        "slug": "typescript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/typescript-logo.png"
+      },
+      {
+        "name": "Go",
+        "slug": "go",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/go-logo.png"
+      },
+      {
+        "name": "Python",
+        "slug": "python",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/python-logo.png"
+      },
+      {
+        "name": "MySQL",
+        "slug": "mysql",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/mysql-logo.png"
+      },
+      {
+        "name": "Redis",
+        "slug": "redis",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/redis-logo.png"
+      },
+      {
+        "name": "GraphQL",
+        "slug": "graphql",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/graphql-logo.png"
+      },
+      {
+        "name": "Hadoop",
+        "slug": "hadoop",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/hadoop-logo.png"
+      },
+      {
+        "name": "NGINX",
+        "slug": "nginx",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/nginx-logo.png"
+      },
+      {
+        "name": "Docker",
+        "slug": "docker",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/docker-logo.png"
+      },
+      {
+        "name": "Kubernetes",
+        "slug": "kubernetes",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/kubernetes-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "9a9e6f94",
+    "slug": "typeform",
+    "name": "Typeform",
+    "website": "www.example.com",
+    "description": "A Barcelona-based online software company specializing in online form building and online surveys. Its main software creates dynamic forms based on user interaction.",
+    "logo": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/typeform-logo.png",
+    "techStack": [
+      {
+        "name": "JavaScript",
+        "slug": "javascript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/javascript-logo.png"
+      },
+      {
+        "name": "TypeScript",
+        "slug": "typescript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/typescript-logo.png"
+      },
+      {
+        "name": "React",
+        "slug": "react",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/react-logo.png"
+      },
+      {
+        "name": "Redux",
+        "slug": "redux",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/redux-logo.png"
+      },
+      {
+        "name": "Node.js",
+        "slug": "nodejs",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/nodejs-logo.png"
+      },
+      {
+        "name": "Go",
+        "slug": "go",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/go-logo.png"
+      },
+      {
+        "name": "PHP",
+        "slug": "php",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/php-logo.png"
+      },
+      {
+        "name": "Scala",
+        "slug": "scala",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/scala-logo.png"
+      },
+      {
+        "name": "Ruby",
+        "slug": "ruby",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/ruby-logo.png"
+      },
+      {
+        "name": "MySQL",
+        "slug": "mysql",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/mysql-logo.png"
+      },
+      {
+        "name": "PostgreSQL",
+        "slug": "postgresql",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/postgresql-logo.png"
+      },
+      {
+        "name": "SQLite",
+        "slug": "sqlite",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/sqlite-logo.png"
+      },
+      {
+        "name": "Redis",
+        "slug": "redis",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/redis-logo.png"
+      },
+      {
+        "name": "AWS",
+        "slug": "aws",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/aws-logo.png"
+      },
+      {
+        "name": "NGINX",
+        "slug": "nginx",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/nginx-logo.png"
+      },
+      {
+        "name": "Terraform",
+        "slug": "terraform",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/terraform-logo.png"
+      },
+      {
+        "name": "Docker",
+        "slug": "docker",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/docker-logo.png"
+      },
+      {
+        "name": "Kubernetes",
+        "slug": "kubernetes",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/kubernetes-logo.png"
+      },
+      {
+        "name": "Jenkins",
+        "slug": "jenkins",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/jenkins-logo.png"
+      },
+      {
+        "name": "Jest",
+        "slug": "jest",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/jest-logo.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "854c4d2b",
+    "slug": "digitalocean",
+    "name": "DigitalOcean",
+    "website": "www.example.com",
+    "description": "A cloud infrastructure provider offering scalable compute platforms with web servers, storage, and networking capabilities.",
+    "logo": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/digitalocean-logo.png",
+    "techStack": [
+      {
+        "name": "Go",
+        "slug": "go",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/go-logo.png"
+      },
+      {
+        "name": "Ruby",
+        "slug": "ruby",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/ruby-logo.png"
+      },
+      {
+        "name": "MySQL",
+        "slug": "mysql",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/mysql-logo.png"
+      },
+      {
+        "name": "Redis",
+        "slug": "redis",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/redis-logo.png"
+      },
+      {
+        "name": "AWS",
+        "slug": "aws",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/aws-logo.png"
+      },
+      {
+        "name": "NGINX",
+        "slug": "nginx",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/nginx-logo.png"
+      },
+      {
+        "name": "Terraform",
+        "slug": "terraform",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/terraform-logo.png"
+      },
+      {
+        "name": "Docker",
+        "slug": "docker",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/docker-logo.png"
+      },
+      {
+        "name": "Kubernetes",
+        "slug": "kubernetes",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/kubernetes-logo.png"
+      },
+      {
+        "name": "Elasticsearch",
+        "slug": "elasticsearch",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/elasticsearch-logo.png"
+      },
+      {
+        "name": "JavaScript",
+        "slug": "javascript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/javascript-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "fccf8e63",
+    "slug": "paypal",
+    "name": "PayPal",
+    "website": "www.example.com",
+    "description": "An online payment system supporting money transfers, often serving as an electronic alternative to traditional paper methods like checks and money orders.",
+    "logo": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/paypal-logo.png",
+    "techStack": [
+      {
+        "name": "JavaScript",
+        "slug": "javascript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/javascript-logo.png"
+      },
+      {
+        "name": "TypeScript",
+        "slug": "typescript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/typescript-logo.png"
+      },
+      {
+        "name": "React",
+        "slug": "react",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/react-logo.png"
+      },
+      {
+        "name": "Redux",
+        "slug": "redux",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/redux-logo.png"
+      },
+      {
+        "name": "React Testing Library",
+        "slug": "react-testing-library",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/testing-library-logo.png"
+      },
+      {
+        "name": "Go",
+        "slug": "go",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/go-logo.png"
+      },
+      {
+        "name": "Java",
+        "slug": "java",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/java-logo.png"
+      },
+      {
+        "name": "Kotlin",
+        "slug": "kotlin",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/kotlin-logo.png"
+      },
+      {
+        "name": "Spring Boot",
+        "slug": "spring-boot",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/spring-logo.png"
+      },
+      {
+        "name": "PostgreSQL",
+        "slug": "postgresql",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/postgresql-logo.png"
+      },
+      {
+        "name": "GraphQL",
+        "slug": "graphql",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/graphql-logo.png"
+      },
+      {
+        "name": "Redis",
+        "slug": "redis",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/redis-logo.png"
+      },
+      {
+        "name": "MySQL",
+        "slug": "mysql",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/mysql-logo.png"
+      },
+      {
+        "name": "Cassandra",
+        "slug": "cassandra",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/cassandra-logo.png"
+      },
+      {
+        "name": "Elasticsearch",
+        "slug": "elasticsearch",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/elasticsearch-logo.png"
+      },
+      {
+        "name": "Hadoop",
+        "slug": "hadoop",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/hadoop-logo.png"
+      },
+      {
+        "name": "Docker",
+        "slug": "docker",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/docker-logo.png"
+      },
+      {
+        "name": "Kubernetes",
+        "slug": "kubernetes",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/kubernetes-logo.png"
+      },
+      {
+        "name": "AWS",
+        "slug": "aws",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/aws-logo.png"
+      },
+      {
+        "name": "Jenkins",
+        "slug": "jenkins",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/jenkins-logo.png"
+      },
+      {
+        "name": "JUnit",
+        "slug": "junit",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/junit-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "ffa08622",
+    "slug": "stripe",
+    "name": "Stripe",
+    "website": "www.example.com",
+    "description": "A financial technology company that provides a range of payment processing services for online and mobile businesses.",
+    "logo": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/stripe-logo.png",
+    "techStack": [
+      {
+        "name": "Ruby",
+        "slug": "ruby",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/ruby-logo.png"
+      },
+      {
+        "name": "JavaScript",
+        "slug": "javascript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/javascript-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "1e3350e3",
+    "slug": "glovo",
+    "name": "Glovo",
+    "website": "www.example.com",
+    "description": "A Spanish quick-commerce startup that operates an app-based platform for delivering goods, including restaurant meals, groceries, and other items.",
+    "logo": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/glovo-logo.png",
+    "techStack": [
+      {
+        "name": "Python",
+        "slug": "python",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/python-logo.png"
+      },
+      {
+        "name": "Flask",
+        "slug": "flask",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/flask-logo.png"
+      },
+      {
+        "name": "JavaScript",
+        "slug": "javascript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/javascript-logo.png"
+      },
+      {
+        "name": "Vue",
+        "slug": "vue",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/vue-logo.png"
+      },
+      {
+        "name": "TypeScript",
+        "slug": "typescript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/typescript-logo.png"
+      },
+      {
+        "name": "Node.js",
+        "slug": "nodejs",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/nodejs-logo.png"
+      },
+      {
+        "name": "Java",
+        "slug": "java",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/java-logo.png"
+      },
+      {
+        "name": "Kotlin",
+        "slug": "kotlin",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/kotlin-logo.png"
+      },
+      {
+        "name": "Scala",
+        "slug": "scala",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/scala-logo.png"
+      },
+      {
+        "name": "Objective-C",
+        "slug": "objective-c",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/unknown-logo.png"
+      },
+      {
+        "name": "Swift",
+        "slug": "swift",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/swift-logo.png"
+      },
+      {
+        "name": "Redis",
+        "slug": "redis",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/redis-logo.png"
+      },
+      {
+        "name": "MySQL",
+        "slug": "mysql",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/mysql-logo.png"
+      },
+      {
+        "name": "AWS",
+        "slug": "aws",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/aws-logo.png"
+      },
+      {
+        "name": "Jenkins",
+        "slug": "jenkins",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/jenkins-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "2d7e39b5",
+    "slug": "twitter",
+    "name": "Twitter",
+    "website": "www.example.com",
+    "description": "A social networking platform where users post and interact with messages known as \"tweets.\" It's widely used for public communication and broadcasting short messages.",
+    "logo": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/twitter-logo.png",
+    "techStack": [
+      {
+        "name": "Java",
+        "slug": "java",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/java-logo.png"
+      },
+      {
+        "name": "JavaScript",
+        "slug": "javascript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/javascript-logo.png"
+      },
+      {
+        "name": "TypeScript",
+        "slug": "typescript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/typescript-logo.png"
+      },
+      {
+        "name": "Node.js",
+        "slug": "nodejs",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/nodejs-logo.png"
+      },
+      {
+        "name": "MySQL",
+        "slug": "mysql",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/mysql-logo.png"
+      },
+      {
+        "name": "PostgreSQL",
+        "slug": "postgresql",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/postgresql-logo.png"
+      },
+      {
+        "name": "Hadoop",
+        "slug": "hadoop",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/hadoop-logo.png"
+      },
+      {
+        "name": "Java",
+        "slug": "java",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/java-logo.png"
+      },
+      {
+        "name": "Scala",
+        "slug": "scala",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/scala-logo.png"
+      },
+      {
+        "name": "Python",
+        "slug": "python",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/python-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "a95ab15a",
+    "slug": "snap",
+    "name": "Snap",
+    "website": "www.example.com",
+    "description": "The parent company of Snapchat, a multimedia messaging app popular among younger demographics for its disappearing messages and augmented reality features.",
+    "logo": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/snap-logo.png",
+    "techStack": [
+      {
+        "name": "C++",
+        "slug": "cplus",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/cpp-logo.png"
+      },
+      {
+        "name": "Objective-C",
+        "slug": "objective-c",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/unknown-logo.png"
+      },
+      {
+        "name": "Swift",
+        "slug": "swift",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/swift-logo.png"
+      },
+      {
+        "name": "Java",
+        "slug": "java",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/java-logo.png"
+      },
+      {
+        "name": "Python",
+        "slug": "python",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/python-logo.png"
+      },
+      {
+        "name": "JavaScript",
+        "slug": "javascript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/javascript-logo.png"
+      },
+      {
+        "name": "React",
+        "slug": "react",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/react-logo.png"
+      },
+      {
+        "name": "Vue",
+        "slug": "vue",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/vue-logo.png"
+      },
+      {
+        "name": "TypeScript",
+        "slug": "typescript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/typescript-logo.png"
+      },
+      {
+        "name": "Redis",
+        "slug": "redis",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/redis-logo.png"
+      },
+      {
+        "name": "NGINX",
+        "slug": "nginx",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/nginx-logo.png"
+      },
+      {
+        "name": "Kubernetes",
+        "slug": "kubernetes",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/kubernetes-logo.png"
+      },
+      {
+        "name": "AWS",
+        "slug": "aws",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/aws-logo.png"
+      },
+      {
+        "name": "Google Cloud",
+        "slug": "google-cloud",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/google-cloud-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "8f33b527",
+    "slug": "red-hat",
+    "name": "Red Hat",
+    "website": "www.example.com",
+    "description": "A software company providing open-source software products to the enterprise community. Red Hat was acquired by IBM in 2019.",
+    "logo": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/red-hat-logo.png",
+    "techStack": [
+      {
+        "name": "Java",
+        "slug": "java",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/java-logo.png"
+      },
+      {
+        "name": "C++",
+        "slug": "c++",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/c++-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "5f01eafa",
+    "slug": "expedia",
+    "name": "Expedia",
+    "website": "www.example.com",
+    "description": "An online travel agency where users can book airline tickets, hotel reservations, car rentals, cruises, and vacation packages.",
+    "logo": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/expedia-logo.png",
+    "techStack": [
+      {
+        "name": "Java",
+        "slug": "java",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/java-logo.png"
+      },
+      {
+        "name": "JavaScript",
+        "slug": "javascript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/javascript-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "f3d9f68e",
+    "slug": "tidal",
+    "name": "Tidal",
+    "website": "www.example.com",
+    "description": "A music streaming platform owned by artists that offers high-fidelity, CD-quality music, and high-resolution video to members.",
+    "logo": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/tidal-logo.png",
+    "techStack": [
+      {
+        "name": "Go",
+        "slug": "go",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/go-logo.png"
+      },
+      {
+        "name": "JavaScript",
+        "slug": "javascript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/javascript-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "978d3f6d",
+    "slug": "slack",
+    "name": "Slack",
+    "website": "www.example.com",
+    "description": "A channel-based messaging platform that allows teams to communicate and collaborate in a shared workspace.",
+    "logo": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/slack-logo.png",
+    "techStack": [
+      {
+        "name": "TypeScript",
+        "slug": "typescript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/typescript-logo.png"
+      },
+      {
+        "name": "JavaScript",
+        "slug": "javascript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/javascript-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "a24c28f0",
+    "slug": "figma",
+    "name": "Figma",
+    "website": "www.example.com",
+    "description": "A cloud-based design tool used for interface design, prototyping, and collaboration. It's commonly used by UI and UX designers.",
+    "logo": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/figma-logo.png",
+    "techStack": [
+      {
+        "name": "C++",
+        "slug": "cplus",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/cpp-logo.png"
+      },
+      {
+        "name": "JavaScript",
+        "slug": "javascript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/javascript-logo.png"
+      },
+      {
+        "name": "TypeScript",
+        "slug": "typescript",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/typescript-logo.png"
+      },
+      {
+        "name": "React",
+        "slug": "react",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/react-logo.png"
+      },
+      {
+        "name": "Node.js",
+        "slug": "nodejs",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/nodejs-logo.png"
+      },
+      {
+        "name": "Rust",
+        "slug": "rust",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/rust-logo.png"
+      },
+      {
+        "name": "PostgreSQL",
+        "slug": "postgresql",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/postgresql-logo.png"
+      },
+      {
+        "name": "Redis",
+        "slug": "redis",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/redis-logo.png"
+      },
+      {
+        "name": "GraphQL",
+        "slug": "graphql",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/graphql-logo.png"
+      },
+      {
+        "name": "AWS",
+        "slug": "aws",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/aws-logo.png"
+      }
+    ]
+  },
+  {
+    "id": "90e0590d",
+    "slug": "lyft",
+    "name": "Lyft",
+    "website": "www.example.com",
+    "description": "A ride-hailing company offering car rides, scooters, and a bicycle-sharing system. Lyft operates in the U.S. and some parts of Canada.",
+    "logo": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/lyft-logo.png",
+    "techStack": [
+      {
+        "name": "Java",
+        "slug": "java",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/java-logo.png"
+      },
+      {
+        "name": "Python",
+        "slug": "python",
+        "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/python-logo.png"
+      }
+    ]
+  }
+]
