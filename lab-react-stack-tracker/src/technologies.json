@@ -1,0 +1,485 @@
+[
+  {
+    "id": "1d08c96e-55c5-48d7-9e5d-7c0ae8503170",
+    "slug": "dotnet",
+    "name": ".NET",
+    "description": "A free, open-source framework based on C# and developed by Microsoft for building modern, high-performance applications.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/dotnet-logo.png"
+  },
+  {
+    "id": "c20c4c8c-68a0-44c5-b2f7-2d7ff6b5e1ad",
+    "slug": "angular",
+    "name": "Angular",
+    "description": "A JavaScript-based open-source front-end web application framework mainly maintained by Google used for developing single-page applications.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/angular-logo.png"
+  },
+  {
+    "id": "1f49cbf7-83d1-4468-8fb7-c08a79e073b6",
+    "slug": "aws",
+    "name": "AWS",
+    "description": "Amazon Web Services (AWS) is a provider of cloud services. It offers on-demand cloud computing services and APIs that are scalable and cost-effective.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/aws-logo.png"
+  },
+  {
+    "id": "512ebbe2-df65-4eb5-9c82-7d0b04871c5a",
+    "slug": "azure",
+    "name": "Azure",
+    "description": "Microsoft Azure is a cloud computing service that offers a wide range of cloud services, including virtual machines, storage, databases, and more.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/azure-logo.png"
+  },
+  {
+    "id": "bcdb7b37-2770-4314-a4ea-3498491977b0",
+    "slug": "csharp",
+    "name": "C#",
+    "description": "A general-purpose, multi-paradigm programming language encompassing static typing, strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented programming disciplines.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/csharp-logo.png"
+  },
+  {
+    "id": "e42887dd-c60d-4e2d-bc8b-15b5f1ce3f95",
+    "slug": "cplus",
+    "name": "C++",
+    "description": "A general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or 'C with Classes'.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/cpp-logo.png"
+  },
+  {
+    "id": "8655bdaa-3e1a-4e9b-8de0-9846b0d12e3a",
+    "slug": "cassandra",
+    "name": "Cassandra",
+    "description": "A highly scalable and distributed NoSQL database designed for managing large amounts of structured and unstructured data across many commodity servers.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/cassandra-logo.png"
+  },
+  {
+    "id": "e7a5e5a6-3da5-4f4b-af4d-4a0d3fd7c4fd",
+    "slug": "circleci",
+    "name": "CircleCI",
+    "description": "A continuous integration and delivery platform that automates the build, test, and deploy processes.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/circleci-logo.png"
+  },
+  {
+    "id": "7e5c37bc-8f68-4c33-9a6b-158440994624",
+    "slug": "couchbase",
+    "name": "Couchbase",
+    "description": "A NoSQL document-oriented database with distributed architecture and built-in caching.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/couchbase-logo.png"
+  },
+  {
+    "id": "e5568d0d-695d-4bb0-b4c2-1d129eeb2c59",
+    "slug": "cypress",
+    "name": "Cypress",
+    "description": "An end-to-end testing framework for web applications built on JavaScript.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/cypress-logo.png"
+  },
+  {
+    "id": "a676ac59-129d-4932-a2f0-240a3439e9d1",
+    "slug": "deno",
+    "name": "Deno",
+    "description": "A secure JavaScript and TypeScript runtime built on the V8 JavaScript engine and Rust.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/deno-logo.png"
+  },
+  {
+    "id": "a446d859-6e4a-4d5b-8745-8762ce496bc2",
+    "slug": "django",
+    "name": "Django",
+    "description": "A high-level Python web framework that enables rapid development of secure and maintainable websites. Built by experienced developers, it takes care of much of the hassle of web development.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/django-logo.png"
+  },
+  {
+    "id": "b16973f9-70e6-4ff9-bb21-6188efb1d3e9",
+    "slug": "docker",
+    "name": "Docker",
+    "description": "An open platform for developing, shipping, and running applications using containerization.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/docker-logo.png"
+  },
+  {
+    "id": "8a678fe4-ee5b-4c5a-9681-f6a1a3f3bc9b",
+    "slug": "dynamodb",
+    "name": "DynamoDB",
+    "description": "A fully managed NoSQL database service provided by Amazon Web Services (AWS).",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/dynamodb-logo.png"
+  },
+  {
+    "id": "7a735bb6-cfaa-4616-9a68-cbd243e0bb82",
+    "slug": "elasticsearch",
+    "name": "Elasticsearch",
+    "description": "A distributed, RESTful search and analytics engine designed for horizontal scalability, high performance, and fault tolerance.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/elasticsearch-logo.png"
+  },
+  {
+    "id": "9a9500f3-3b1a-4a2c-bd1b-57dc570f3c27",
+    "slug": "express-js",
+    "name": "Express JS",
+    "description": "A fast, unopinionated, and minimalist web framework for Node.js.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/express-logo.png"
+  },
+  {
+    "id": "c8e3b159-262a-4f78-bf17-3fbf7ea2aabe",
+    "slug": "flask",
+    "name": "Flask",
+    "description": "A micro web framework written in Python. It does not require particular tools or libraries, and it has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/flask-logo.png"
+  },
+  {
+    "id": "5bdc67f9-5d47-4cde-bca1-d7c5f607b86d",
+    "slug": "flutter",
+    "name": "Flutter",
+    "description": "An open-source UI software development kit created by Google for building natively compiled applications for mobile, web, and desktop from a single codebase.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/flutter-logo.png"
+  },
+  {
+    "id": "d0e9578a-6836-42c0-af46-12f5b674ab6d",
+    "slug": "gatsby",
+    "name": "Gatsby",
+    "description": "A free and open-source framework based on React used for building fast, modern websites and applications.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/gatsby-logo.png"
+  },
+  {
+    "id": "3e50e874-8e1f-4f3f-9d07-f3d6c39f22d9",
+    "slug": "github-actions",
+    "name": "GitHub Actions",
+    "description": "A feature of GitHub that provides continuous integration and deployment workflows for repositories.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/github-actions-logo.png"
+  },
+  {
+    "id": "df3a515e-8a51-4327-8704-946a82c9db3e",
+    "slug": "go",
+    "name": "Go",
+    "description": "Also known as Golang, Go is a statically typed, compiled language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/go-logo.png"
+  },
+  {
+    "id": "03f60c15-7ab2-4b96-91b2-59cb73fda7d7",
+    "slug": "google-cloud",
+    "name": "Google Cloud",
+    "description": "Google Cloud Platform is a suite of cloud computing services provided by Google, offering infrastructure, platform, and AI services for various industries.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/google-cloud-logo.png"
+  },
+  {
+    "id": "71553e4f-7a6b-4f67-83b3-4b6dfe1770da",
+    "slug": "hadoop",
+    "name": "Hadoop",
+    "description": "An open-source software framework for distributed storage and processing of large datasets.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/hadoop-logo.png"
+  },
+  {
+    "id": "2e90f972-c10f-4f3e-9416-cc4f5e524ad2",
+    "slug": "heroku",
+    "name": "Heroku",
+    "description": "A cloud platform as a service (PaaS) that enables developers to build, run, and scale applications effortlessly.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/heroku-logo.png"
+  },
+  {
+    "id": "38a72b41-4e47-43d5-9d24-1d85e6c70074",
+    "slug": "java",
+    "name": "Java",
+    "description": "A class-based, object-oriented programming language used for Android apps.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/java-logo.png"
+  },
+  {
+    "id": "f337c938-01df-4cb9-aa4e-620f1ff86601",
+    "slug": "javascript",
+    "name": "JavaScript",
+    "description": "A high-level, interpreted programming language that is primarily used for client-side web development.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/javascript-logo.png"
+  },
+  {
+    "id": "62309d4c-4622-4c57-aaba-5a77d31c7ee3",
+    "slug": "jenkins",
+    "name": "Jenkins",
+    "description": "An open-source automation server used for building, testing, and deploying software projects.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/jenkins-logo.png"
+  },
+  {
+    "id": "6701a1d2-915f-42a9-8f7b-303a2d072950",
+    "slug": "jest",
+    "name": "Jest",
+    "description": "A JavaScript testing framework used for unit testing JavaScript projects.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/jest-logo.jpeg"
+  },
+  {
+    "id": "bd6a6e63-56eb-4d0d-a5a5-6e5f877661b1",
+    "slug": "junit",
+    "name": "JUnit",
+    "description": "A widely-used unit testing framework for Java applications.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/junit-logo.png"
+  },
+  {
+    "id": "f9578563-02bc-48e9-af20-76e7434e4a47",
+    "slug": "koa-js",
+    "name": "Koa.js",
+    "description": "A lightweight, expressive, and powerful web application framework for Node.js.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/koa-logo.png"
+  },
+  {
+    "id": "9a2b6e9e-02a5-486b-9383-2e95a7ea3e4c",
+    "slug": "kotlin",
+    "name": "Kotlin",
+    "description": "A cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's standard library depends on the Java Class Library, but type inference allows its syntax to be more concise.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/kotlin-logo.png"
+  },
+  {
+    "id": "21dd780d-3b0f-4f23-b6ad-0a17a3d6d6f2",
+    "slug": "kubernetes",
+    "name": "Kubernetes",
+    "description": "An open-source container orchestration platform for automating deployment, scaling, and management of containerized applications.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/kubernetes-logo.png"
+  },
+  {
+    "id": "29e0cdd0-7b4b-4161-994d-02f5356decbf",
+    "slug": "laravel",
+    "name": "Laravel",
+    "description": "A free, open-source PHP web framework created by Taylor Otwell and intended for the development of web applications following the model–view–controller (MVC) architectural pattern.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/laravel-logo.png"
+  },
+  {
+    "id": "a7a1b6ab-1f12-4f63-b891-1d9f13f7d519",
+    "slug": "linode",
+    "name": "Linode",
+    "description": "A cloud hosting provider that offers high-performance SSD Linux servers with a simple and intuitive cloud management interface.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/linode-logo.png"
+  },
+  {
+    "id": "f19a2b67-3a70-4b07-a58b-1d66624b408a",
+    "slug": "mariadb",
+    "name": "MariaDB",
+    "description": "An open-source relational database management system and a drop-in replacement for MySQL.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/mariadb-logo.png"
+  },
+  {
+    "id": "e30395a3-4f4d-4a6f-8fb7-935f1c226c86",
+    "slug": "microsoft-sql-server",
+    "name": "Microsoft SQL Server",
+    "description": "A relational database management system developed by Microsoft.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/unknown-logo.png"
+  },
+  {
+    "id": "131f78a7-964a-4f61-9f91-9ed271d7da0a",
+    "slug": "mongo",
+    "name": "MongoDB",
+    "description": "A source-available cross-platform document-oriented database program.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/mongodb-logo.png"
+  },
+  {
+    "id": "8bdf424a-2a57-4f39-bde5-b13c1eeec8a3",
+    "slug": "mysql",
+    "name": "MySQL",
+    "description": "A relational database management system.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/mysql-logo.png"
+  },
+  {
+    "id": "1e40a5a4-14f1-4536-9637-6a9a6fe5db5f",
+    "slug": "neo4j",
+    "name": "Neo4j",
+    "description": "A graph database management system that stores data in nodes and relationships to enable efficient querying of complex relationships.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/neo4j-logo.png"
+  },
+  {
+    "id": "9d5a2d47-1294-4f7a-bf1f-96ae74a8a9b3",
+    "slug": "netlify",
+    "name": "Netlify",
+    "description": "Netlify is a cloud platform for modern web projects, offering a powerful combination of build automation, deployment, and CDN services.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/netlify-logo.png"
+  },
+  {
+    "id": "a0f9c899-8460-46a6-9e3f-8a03622256f3",
+    "slug": "nextjs",
+    "name": "Next.js",
+    "description": "A framework for building server-side rendered and static web applications with React.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/nextjs-logo.png"
+  },
+  {
+    "id": "8c9015d4-b13a-4a50-9985-7fc5ae2a9822",
+    "slug": "nodejs",
+    "name": "Node.js",
+    "description": "A back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/nodejs-logo.png"
+  },
+  {
+    "id": "5ae2a982-b13a-4a50-9153-8a03657832f3",
+    "slug": "objective-c",
+    "name": "Objective-C",
+    "description": "...",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/unknown-logo.png"
+  },
+  {
+    "id": "4dc8ce33-4fb3-41ad-bff1-3630d5b7058e",
+    "slug": "oracle",
+    "name": "Oracle",
+    "description": "A relational database management system developed by Oracle Corporation.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/oracle-logo.png"
+  },
+  {
+    "id": "27e8b6ed-7921-4a32-8d03-7e02e2e9e620",
+    "slug": "php",
+    "name": "PHP",
+    "description": "A popular general-purpose scripting language that is especially suited to web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1994.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/php-logo.svg"
+  },
+  {
+    "id": "5dfaf625-32f9-4db5-b62b-2f335ff35246",
+    "slug": "postgresql",
+    "name": "PostgreSQL",
+    "description": "PostgreSQL, also known as Postgres, is a free and open-source relational database management system emphasizing extensibility and SQL compliance.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/postgresql-logo.png"
+  },
+  {
+    "id": "6a218d19-2962-4c87-9a10-0a825f129ed0",
+    "slug": "postman",
+    "name": "Postman",
+    "description": "A collaboration platform for API development that also includes powerful testing capabilities.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/postman-logo.png"
+  },
+  {
+    "id": "6c70e2f1-8ed7-4d48-b297-22137c3fd33e",
+    "slug": "python",
+    "name": "Python",
+    "description": "A general-purpose programming language used for the backend, data wrangling, machine learning and more.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/python-logo.png"
+  },
+  {
+    "id": "2a2465f2-3b97-4aeb-bd8e-898f92b2a586",
+    "slug": "pytorch",
+    "name": "PyTorch",
+    "description": "An open-source machine learning library used for developing and training neural network models.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/pytorch-logo.png"
+  },
+  {
+    "id": "0c13d729-b0e1-4f75-81e6-446e07b019a6",
+    "slug": "react",
+    "name": "React",
+    "description": "A JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/react-logo.png"
+  },
+  {
+    "id": "09b27641-7634-4282-9aa2-b8cc94a50f0e",
+    "slug": "react-native",
+    "name": "React Native",
+    "description": "An open-source framework for building mobile applications using React and JavaScript.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/react-logo.png"
+  },
+  {
+    "id": "d714d38b-5a61-421c-b02e-5c2f5e616377",
+    "slug": "react-testing-library",
+    "name": "React Testing Library",
+    "description": "A testing utility for React applications that focuses on testing component behavior from the user's perspective.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/testing-library-logo.png"
+  },
+  {
+    "id": "2b1df855-9f66-4e9e-9f4d-9e3431e48ad6",
+    "slug": "redis",
+    "name": "Redis",
+    "description": "An in-memory data structure store used as a database, cache, and message broker.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/redis-logo.png"
+  },
+  {
+    "id": "e2ed596e-2890-485e-89a6-7923f4d45017",
+    "slug": "ruby",
+    "name": "Ruby",
+    "description": "A dynamic, object-oriented programming language known for its simplicity and productivity.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/ruby-logo.png"
+  },
+  {
+    "id": "87a9f1d0-5d2c-4396-915b-4d78de790aee",
+    "slug": "ruby-on-rails",
+    "name": "Ruby on Rails",
+    "description": "A server-side web application framework written in Ruby. It is a model–view–controller (MVC) framework, providing default structures for a database, a web service, and web pages.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/rails-logo.png"
+  },
+  {
+    "id": "af4ae49a-cf10-4418-93c5-27a6165d86d4",
+    "slug": "rust",
+    "name": "Rust",
+    "description": "A systems programming language that emphasizes safety, performance, and concurrency.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/rust-logo.png"
+  },
+  {
+    "id": "b5a843ae-ba2f-4a60-a2f2-3c0f5737f405",
+    "slug": "scala",
+    "name": "Scala",
+    "description": "A modern, functional programming language designed to express common programming patterns in a concise, elegant, and type-safe way.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/scala-logo.png"
+  },
+  {
+    "id": "52f1dc19-6c59-4743-9f33-8ff91b5f597e",
+    "slug": "selenium",
+    "name": "Selenium",
+    "description": "A widely-used open-source framework for automating web browsers.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/selenium-logo.png"
+  },
+  {
+    "id": "f543e0ae-72fd-4c87-9860-f9f9f482b88c",
+    "slug": "spring-boot",
+    "name": "Spring Boot",
+    "description": "An open-source Java-based framework used to create microservices. It is used to build standalone and production-ready Spring applications.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/spring-logo.png"
+  },
+  {
+    "id": "c6774e5f-1782-43ad-9b3f-22c1cfd0e5e1",
+    "slug": "sqlite",
+    "name": "SQLite",
+    "description": "A self-contained, serverless, and zero-configuration database engine.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/sqlite-logo.png"
+  },
+  {
+    "id": "46a91169-1207-4d08-8f06-217c54cb7b32",
+    "slug": "svelte",
+    "name": "Svelte",
+    "description": "A JavaScript framework that compiles to efficient JavaScript code, resulting in highly performant web applications.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/svelte-logo.png"
+  },
+  {
+    "id": "2e822b06-7ae4-4d8d-8649-546c0d6b19f0",
+    "slug": "swift",
+    "name": "Swift",
+    "description": "A powerful and intuitive programming language for macOS, iOS, watchOS, tvOS, and beyond. Writing Swift code is interactive and fun, the syntax is concise yet expressive, and Swift includes modern features developers love.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/swift-logo.png"
+  },
+  {
+    "id": "4b8a2c45-0406-4d13-b697-1b0629ff8e7f",
+    "slug": "tensorflow",
+    "name": "TensorFlow",
+    "description": "An open-source machine learning framework for building and deploying machine learning models.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/tensorflow-logo.png"
+  },
+  {
+    "id": "87b8167e-4a70-4c15-84ee-0e02e4628289",
+    "slug": "terraform",
+    "name": "Terraform",
+    "description": "An open-source infrastructure as code software tool used for building, changing, and versioning infrastructure.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/terraform-logo.png"
+  },
+  {
+    "id": "90b65d4d-0a56-4ed5-8844-0e30a4f1a8a9",
+    "slug": "travis-ci",
+    "name": "Travis CI",
+    "description": "A hosted continuous integration and deployment service used to build and test software projects hosted on GitHub and Bitbucket.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/travisci-logo.png"
+  },
+  {
+    "id": "a6e7591e-77a0-43d4-8bb3-b89e2a76d6a3",
+    "slug": "typescript",
+    "name": "TypeScript",
+    "description": "An open-source strongly typed programming language that builds on JavaScript.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/typescript-logo.png"
+  },
+  {
+    "id": "70ac24d9-9c6e-46c7-97e7-3278b2f5e2b5",
+    "slug": "unity",
+    "name": "Unity",
+    "description": "A cross-platform game engine used to develop video games for PC, consoles, mobile devices, and websites.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/unity-logo.png"
+  },
+  {
+    "id": "1f4e3885-5b5e-4ebf-9f8e-37ad392b53e5",
+    "slug": "vercel",
+    "name": "Vercel",
+    "description": "Vercel is a cloud platform for static sites and serverless functions, providing a seamless workflow for building, deploying, and scaling websites and applications.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/vercel-logo.png"
+  },
+  {
+    "id": "f3db1a32-8d95-4e5a-93f1-5df7e638692a",
+    "slug": "vue",
+    "name": "Vue",
+    "description": "An open-source JavaScript framework for building user interfaces and single-page applications.",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/vue-logo.png"
+  }
+]
