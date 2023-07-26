@@ -10,7 +10,7 @@ function Tweet(props) {
       <ProfileImage image={props.tweet.user.image} />
       <div className="body">
         <div className="top">
-          <User userData={props.tweet.user} />
+          <User name={props.tweet.user.name} handle={props.tweet.user.handle} />
           <Timestamp time={props.tweet.timestamp} />
         </div>
 
